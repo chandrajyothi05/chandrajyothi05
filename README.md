@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a website including css, js and html<br>👯 I’m looking to collaborate on projects that could broaden my knowledge <br>🤝 I’m looking to learn from the people I meet<br>🌱 I’m currently learning about github and how to stay consistent <br>⚡ I like to read and listen to songs
+🔭 I’m currently working on my first hackathon project<br>👯 I’m looking to collaborate on projects that could broaden my knowledge <br>🤝 I’m looking to learn from the people I meet<br>🌱 I’m currently learning about github and how to stay consistent <br>⚡ I like to read and listen to songs
 
 
 ## 🌐 Socials:
