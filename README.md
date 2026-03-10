@@ -3,7 +3,7 @@
 👯 always down to collab on cool stuff & learn new things <br>
 🤝 learning from awesome people along the way <br>
 🌱 figuring out github + the art of staying consistent <br>
-⚡ when not coding: reading or vibing to music
+⚡ when not coding: reading or listening to music or watching something
 
 
 ## 🌐 Socials:
