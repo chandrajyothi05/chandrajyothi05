@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently building my first hackathon project <br>
+🔭 currently working on my many unfinished projects <br>
 👯 always down to collab on cool stuff & learn new things <br>
 🤝 learning from awesome people along the way <br>
 🌱 figuring out github + the art of staying consistent <br>
