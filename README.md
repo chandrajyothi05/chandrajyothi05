@@ -1,17 +1,125 @@
-# 💫 About Me:
-👯 always down to collab on cool stuff & learn new things <br>
-🤝 learning from awesome people along the way <br>
-🌱 figuring out github + the art of staying consistent <br>
-⚡ when not coding: reading or listening to music or watching something
+<div align="center">
 
+# ☾
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chan._.dra_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrajyothi-biju) 
+### *🌘 be the moon, and inspire people — even though you're far from full.*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3500&pause=1000&color=D6C8FF&center=true&vCenter=true&width=700&lines=computer+science+student;moonlight+soul+%E2%98%BE+sunshine+heart;finding+magic+between+music,+nature,+and+code;always+learning+something+new" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+⋆⁺₊⋆ ☾ ⋆⁺₊⋆
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## ☁︎ about me
+
+hi i'm **chandrajyothi** — a name that literally means **moonlight**, and somewhere along the way i realized it fits.
+
+i've always been drawn to quiet nights, music that makes time disappear, long walks through nature, and stories that feel like home. i'm endlessly curious, which usually means falling into research rabbit holes over the most random things simply because i want to understand them.
+
+if you only know me a little, i probably seem quiet.
+
+the people closest to me would tell you something completely different.
+
+they'd probably describe me as **sunshine personified**—someone who laughs loudly, cares deeply, and somehow turns ordinary conversations into unexpectedly meaningful ones. i like that contradiction. i think we're all allowed to be more than one thing.
+
+for a long time, i wondered why i never quite fit into the places i thought i was supposed to.
+
+then i realized...
+
+> **maybe the point was never to fit in.**
+>
+> **maybe it was to become someone unmistakably myself.**
+
+my name is a little uncommon, and i've grown to love that about it. so i'm choosing to stay true to who i am—to be as unique as the name i was given.
+
+whether it's through something i build, something i learn, or simply a conversation, i hope i can leave people feeling just a little lighter than before.
+
+---
+
+## 🌿 little things i love
+
+```text
+🌙 moonlit skies
+
+🌲 wandering through nature
+
+🎧 music that makes time disappear
+
+📚 fantasy books & stories that stay with me
+
+🏋🏻 gym
+
+☕ late-night coding sessions
+
+💭 conversations that accidentally become deep
+
+✨ learning something new every single day
+```
+
+---
+
+## 🌙 things i build with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql,git,github,vscode,tensorflow,pytorch&perline=6" />
+</p>
+
+<div align="center">
+
+*every project teaches me something new, and that's my favorite part.*
+
+</div>
+
+---
+
+## 🌱 currently wandering
+
+```text
+☾ machine learning
+
+☾ deep learning
+
+☾ eeg signal processing
+
+☾ open source
+
+☾ building projects that make someone's day a little easier
+```
+
+---
+
+## 🌌 github
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=D6C8FF&icon_color=B8A8FF&text_color=EAE6FF"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=D6C8FF&fire=B8A8FF&currStreakLabel=EAE6FF"/>
+
+</p>
+
+---
+
+## ✨ let's connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chandrajyothi-biju">
+<img src="https://img.shields.io/badge/linkedin-e4e7ff?style=for-the-badge&logo=linkedin&logoColor=4f46e5"/>
+</a>
+
+<a href="https://instagram.com/chan._.dra_05">
+<img src="https://img.shields.io/badge/instagram-f6e4ff?style=for-the-badge&logo=instagram&logoColor=9333ea"/>
+</a>
+
+</p>
+
+<div align="center">
+
+⋆⁺₊⋆ ☾ ⋆⁺₊⋆
+
+*"leave places, projects, and people a little better than you found them."*
+
+</div>
