@@ -93,11 +93,12 @@ whether it's through something i build, something i learn, or simply a conversat
 ## 🌌 github
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandrajyothi05&show_icons=true&theme=transparent&hide_border=true&title_color=D6C8FF&icon_color=B8A8FF&text_color=EAE6FF"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=chandrajyothi05&theme=transparent&hide_border=true&ring=D6C8FF&fire=B8A8FF&currStreakLabel=EAE6FF&stroke=0000"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=D6C8FF&icon_color=B8A8FF&text_color=EAE6FF"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=D6C8FF&fire=B8A8FF&currStreakLabel=EAE6FF"/>
-
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrajyothi05&layout=compact&theme=transparent&hide_border=true&title_color=D6C8FF&text_color=EAE6FF"/>
 </p>
 
 ---
