@@ -5,7 +5,7 @@
 ### *🌘 be the moon, and inspire people — even though you're far from full.*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3500&pause=1000&color=D6C8FF&center=true&vCenter=true&width=700&lines=computer+science+student;moonlight+soul+%E2%98%BE+sunshine+heart;finding+magic+between+music,+nature,+and+code;always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3500&pause=1000&color=D6C8FF&center=true&vCenter=true&width=700&lines=computer+science+student;finding+magic+between+music,+nature,+and+code;always+learning+something+new" />
 </p>
 
 ⋆⁺₊⋆ ☾ ⋆⁺₊⋆
